@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **cheeesevox@gmail.com**
 
-- ⚡ Fun fact **Say "cheese" while coding with me**
+- ⚡ Fun fact **Say "cheese" while coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
