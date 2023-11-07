@@ -11,11 +11,11 @@ e
 
 - 🤝 I’m looking for help with **new technologies and developing software solutions**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cheesevox](https://github.com/cheesevox)
+- 👨‍💻 All of my projects are available at [https://github.com/cheesevox](https://github.com/cheeesevox)
 
 - 💬 Ask me about **java, c#, back-end**
 
-- 📫 How to reach me **cheesevox@gmail.com**
+- 📫 How to reach me **cheeesevox@gmail.com**
 
 - ⚡ Fun fact **Say "cheese" while coding with me**
 
